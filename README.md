@@ -23,7 +23,7 @@ June 2013 - September 2022
 **Now**
 Backend development | freelance
 
-**Hobbyes**
+**Hobbies**
 Climbing, Mountaineering, Alpine skiing, Bridge
 
 Open to contract to hire
