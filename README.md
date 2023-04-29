@@ -1,20 +1,30 @@
-Привет!
+Hi everybody!
 =======
-**Меня зовут Олег Хвостенко, я Backend разработчик на Python!**
+**I am Oleg Khvostenko Python backend developer!**
 
-Прошел учебный курс «Fullstack разработчик на Python» на онлайн платформе [Нетология](https://netology.ru/)
-
-О себе:
+About me:
 -------
-50 лет. Живу с семьей в Черногории.
+I live in Montenegro with my family. I like this country!
 
-По образованию математик. Закончил **Новосибирский государственный университет** в 1996 году.
+**Education**
+Novosibirsk State University
+Master of Science (MS), Mathematics
+1991-1996
 
-Кандидат физико-математических наук.
+Krasnoyarsk Biophysics Institute
+Doctor of Philosophy (PhD), Math Ecology
+1997-2000
 
-Последние 10 лет работал инженером-проектировщиком, специализация: сети связи, системы автоматизации,
-видеонаблюдение, охранно-пожарная сигнализация, радиооборудование.
+**Employment**
+Siberian Aero Engineering company LLC. Senior Engineer
+Developing projects of Airport's ground environment
+June 2013 - September 2022
 
-Принял решение сменить профессию.
+**Now**
+Backend development | freelance
 
-Рассмотрю любые предложения по стажировке на Python. 
+**Hobbyes**
+Climbing, Mountaineering, Alpine skiing, Bridge
+
+Open to contract to hire
+-------
