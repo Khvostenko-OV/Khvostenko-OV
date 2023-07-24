@@ -6,6 +6,8 @@ About me:
 -------
 I live in Montenegro with my family. I like this country!
 
+#TAG python
+
 **Education**
 Novosibirsk State University
 Master of Science (MS), Mathematics
