@@ -4,7 +4,7 @@ Hi everybody!
 
 About me:
 -------
-I live in Montenegro with my family. I like this country!
+I live in Germany (Hamburg) with my family. I like this country!
 
 **Education**
 Novosibirsk State University
