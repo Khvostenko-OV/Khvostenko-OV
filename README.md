@@ -16,7 +16,7 @@ Doctor of Philosophy (PhD), Math Ecology
 1997-2000
 
 **Employment**
-Siberian Aero Engineering company LLC. Senior Engineer
+Siberian Aero Engineering company LLC. Senior Engineer.
 Developing projects of Airport's ground environment
 June 2013 - September 2022
 
